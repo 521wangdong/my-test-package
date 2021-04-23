@@ -3,6 +3,4 @@ function add(x, y) {
 
 }
 
-module.exports = {
-    add
-}
+export default add
