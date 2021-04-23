@@ -1,0 +1,16 @@
+.idea/
+/src/*.zip
+*.rar
+*.log
+report.*
+.svn
+.DS_Store
+.com.apple.timemachine.supported
+node_modules
+.temp
+pagesToShow.*
+pagesToShow.js
+
+dist/
+release/
+.vscode
